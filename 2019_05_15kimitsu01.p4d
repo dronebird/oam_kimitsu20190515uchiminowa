@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06655.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06656.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06657.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06658.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06659.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06660.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06661.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06662.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06663.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06664.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06665.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06666.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06667.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06668.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06669.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06670.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06671.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06672.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06673.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06674.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06675.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06676.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06677.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06678.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06679.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06680.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06681.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06682.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06683.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06684.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06685.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06686.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06687.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06688.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06689.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06690.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06691.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06692.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06693.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06694.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06695.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06696.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06697.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06698.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06699.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06700.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06701.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06702.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06703.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06704.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06705.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06706.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06707.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06708.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06709.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06710.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06711.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06712.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06713.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06714.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06715.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06716.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06717.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06718.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06719.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06720.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06721.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06722.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06723.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06724.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06725.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06726.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06727.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06728.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06729.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06730.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06731.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06732.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06733.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06734.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06735.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06736.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06737.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06738.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06739.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06740.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06741.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06742.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06743.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06744.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06745.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06746.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06747.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06748.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06749.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06750.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06751.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06752.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06753.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06754.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06755.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06756.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06757.JPG"/>
+            <image path="C:/Users/taichi/Documents/2019-05-15kimitsu01/img/DSC06758.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.3282597400" lng="139.9307733000"/>
+            <geoCoord2D lat="35.3272693800" lng="139.9248414100"/>
+            <geoCoord2D lat="35.3227975900" lng="139.9259667900"/>
+            <geoCoord2D lat="35.3237880100" lng="139.9318986800"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
