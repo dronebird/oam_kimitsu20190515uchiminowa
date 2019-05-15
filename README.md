@@ -1,0 +1,1 @@
+# oam_kimitsu20190515uchiminowa
