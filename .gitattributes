@@ -1,1 +1,2 @@
 2019_05_15kimitsu01dem.zip filter=lfs diff=lfs merge=lfs -text
+kimitsu_park_mm.stl filter=lfs diff=lfs merge=lfs -text
